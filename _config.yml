@@ -13,23 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Casey Goldman
+title: "Casey Goldman"
 email: casey@dataland.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Casey's personal blog. Read posts, get in touch, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://casegoldman.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://casegoldman.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: casegoldman
 github_username:  casegold
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
+
+# Minimal Mistakes theme customization
+minimal_mistakes_skin: "air" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+title_separator: "|"
+name: "Casey Goldman"
+repository: "casegold/casegold.github.io"
+breadcrumbs: true  # disabled by default
+search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
