@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/andreas-gucklhorn-285567-unsplash.jpg
   cta_label: "dataland.ai"
   cta_url: "http://dataland.ai/"
-excerpt: "Welcome to my personal website. Please check out my latest project Dataland."
+excerpt: "Welcome to my personal website. Please check out my latest project:"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
