@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Casey Goldman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CEO @ dataland.ai"
   location         : "San Francisco"
   email            :
