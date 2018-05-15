@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/images/dataland_logo.png
     alt: "dataland logo"
     title: "Dataland AI"
-    excerpt: "Search and analytics engine for datasets. *Currently in beta, email for invite to early access.*"
+    excerpt: "Search and analytics engine for datasets. *In beta, email for invite to early access.*"
     url: "dataland.ai"
     btn_label: "dataland.ai"
     btn_class: "btn--primary"
