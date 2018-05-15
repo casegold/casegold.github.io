@@ -13,20 +13,20 @@ excerpt: "Improving the world through efficiency. Engineering, investing, and op
 intro:
   - excerpt: 'Serial entrepreneur, successful current and past startups include:'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/dataland_logo.png
     alt: "dataland logo"
     title: "Dataland.ai"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Search and analytics engine for datasets. *Currently in beta, email for invite to early access.*"
     url: "dataland.ai"
     btn_label: "datalant.ai"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/reptileslounge_logo.png
     alt: "reptiles lounge logo"
     title: "Reptiles Lounge"
     excerpt: "The best online shopping experience for reptiles and amphibian pet supplies"
     url: "https://reptileslounge.com"
     btn_label: "reptileslounge.com"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/sustainabilitypartners_logo.png
     title: "Sustainability Partners"
     excerpt: "Acquired by BlackRock in 2016. Real asset and infrastructure fund that identifies and invests in sustainable products to deliver high customer and fund ROI."
 feature_row2:
