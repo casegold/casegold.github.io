@@ -9,9 +9,9 @@ header:
   overlay_image: /assets/images/andreas-gucklhorn-285567-unsplash.jpg
   cta_label: "dataland.ai"
   cta_url: "http://dataland.ai/"
-excerpt: "Chemical engineering, private equity, operations, and software development."
+excerpt: "Improving the world through efficiency. Engineering, investing, and operations management."
 intro:
-  - excerpt: 'Serial entrepreneur, successful startups include:'
+  - excerpt: 'Serial entrepreneur, successful current and past startups include:'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "dataland logo"
