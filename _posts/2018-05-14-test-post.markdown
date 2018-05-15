@@ -1,0 +1,7 @@
+---
+layout: single
+title:  "Test Post"
+date:   2018-05-14 22:37:00 -0700
+categories: test
+---
+This is a test post. Just seeing how it looks.
