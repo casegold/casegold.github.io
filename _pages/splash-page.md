@@ -2,14 +2,14 @@
 title: "Casey Goldman"
 layout: splash
 permalink: /
-date: 2018-05-13T19:15:00-00:00
+date: 2018-05-14T21:40:00-00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/andreas-gucklhorn-285567-unsplash.jpg
   cta_label: "dataland.ai"
   cta_url: "http://dataland.ai/"
-excerpt: "Welcome to my personal website. Please check out my latest project:"
+excerpt: "Chemical engineering, private equity, operations, and software development."
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
