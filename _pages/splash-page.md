@@ -11,22 +11,24 @@ header:
   cta_url: "http://dataland.ai/"
 excerpt: "Chemical engineering, private equity, operations, and software development."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Serial entrepreneur, successful startups include:'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "dataland logo"
+    title: "Dataland.ai"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "dataland.ai"
+    btn_label: "datalant.ai"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "reptiles lounge logo"
+    title: "Reptiles Lounge"
+    excerpt: "The best online shopping experience for reptiles and amphibian pet supplies"
+    url: "https://reptileslounge.com"
+    btn_label: "reptileslounge.com"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Sustainability Partners"
+    excerpt: "Acquired by BlackRock in 2016. Real asset and infrastructure fund that identifies and invests in sustainable products to deliver high customer and fund ROI."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
