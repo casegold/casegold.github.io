@@ -15,10 +15,11 @@ intro:
 feature_row:
   - image_path: assets/images/dataland_logo.png
     alt: "dataland logo"
-    title: "Dataland.ai"
+    title: "Dataland AI"
     excerpt: "Search and analytics engine for datasets. *Currently in beta, email for invite to early access.*"
     url: "dataland.ai"
-    btn_label: "datalant.ai"
+    btn_label: "dataland.ai"
+    btn_class: "btn--primary"
   - image_path: /assets/images/reptileslounge_logo.png
     alt: "reptiles lounge logo"
     title: "Reptiles Lounge"
